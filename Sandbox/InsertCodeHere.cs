@@ -12,7 +12,7 @@ namespace Sandbox
             // (is that legal...?)
             BankAccount theAccount = new BankAccount(25.0);
 
-            theAccount.Deposit(2000);
+            theAccount.Deposit(3000);
 
 
             // Should this be legal...?
